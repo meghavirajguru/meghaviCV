@@ -19,7 +19,7 @@ body {
 }
 
 .bg-dark {
-    background: rgb(0, 0, 0) !important;
+    background: rgb(232, 230, 230) !important;
     background: linear-gradient(53deg, rgb(22 20 43) 0%, rgb(30 6 33) 100%) !important;
 }
 
