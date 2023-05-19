@@ -1,5 +1,5 @@
 :root {
-    --yellow: #ff0000;
+    --yellow: #FFC300;
     --white: #fff;
     --blackBg: #fff;
     --offWhite: #c9c9c9;
@@ -19,8 +19,8 @@ body {
 }
 
 .bg-dark {
-    background: rgb(232, 230, 230) !important;
-    background: linear-gradient(53deg, rgb(22 20 43) 0%, rgb(30 6 33) 100%) !important;
+    background: rgb(247, 246, 246) !important;
+    background: linear-gradient(53deg, rgb(169, 25, 25) 0%, rgb(110, 238, 41) 100%) !important;
 }
 
 .navbar-dark .navbar-brand {
@@ -105,7 +105,7 @@ body {
 }
 
 .bannerWrapper button.btn {
-    background-color: #FFC300;
+    background-color: #362cc8;
     padding: 8px 20px;
     border: none;
     position: relative;
